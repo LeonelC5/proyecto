@@ -17,7 +17,7 @@ animes = [
     "reviews": 410803,
     "season": "Spring",
     "tipo": "TV Show",
-    "poster": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/4fadd5f113c28de1b22d4ef67a78890b.jpe",
+    "poster": "https://pics.filmaffinity.com/Steins_Gate_Serie_de_TV-571124347-large.jpg",
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@ animes = [
     "reviews": 455939,
     "season": "Airing since 1999",
     "tipo": "TV Show",
-    "poster": "https://static.wikia.nocookie.net/doblaje/images/8/8d/One_Piece.png/revision/latest/thumbnail/width/360/height/450?cb=20190727212440&path-prefix=es",
+    "poster": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/f154230aab3191aba977f337d392f812.jpe",
   },
   {
     "id": 4,
